@@ -28,11 +28,3 @@ Egy 3D-s, interaktív naprendszer szimuláció, amely C++ és modern OpenGL (Cor
 | **Egér görgő** | Látószög (FOV / Zoom) állítása |
 | **Esc** | Kilépés a programból |
 | **Enter** | Újraindítás (Game Over képernyőnél) |
-
-## ⚙️ Futtatás és Telepítés
-
-A projekt Visual Studio környezetben készült. A sikeres fordításhoz és futtatáshoz a következő beállítások szükségesek:
-
-1. Klónozd a tárolót:
-   ```bash
-   git clone [https://github.com/felhasznaloneved/repo-neve.git](https://github.com/felhasznaloneved/repo-neve.git)
